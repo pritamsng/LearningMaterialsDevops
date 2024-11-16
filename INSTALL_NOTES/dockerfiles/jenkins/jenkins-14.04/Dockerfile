@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM ubuntu:trusty-20190425
 MAINTAINER Seshagiri Sriram <seshagirisriram@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
